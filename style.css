@@ -1,0 +1,206 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+#section_one{
+background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%),url(./photo/bg-masthead.jpg);
+height: 100vh;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+
+#section_one .box_two{
+text-align: center;
+padding-top: 20%;
+}
+
+
+#section_one .box_two h1{
+    font-size: 5.5rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#section_one .box_two p{
+margin: 20px 0 50px 0;
+font-size: 25px;
+font-style: italic;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 600;
+}
+
+#section_one .box_two a{
+    text-decoration: none;
+    background-color: #1D809F;
+    padding: 20px 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#section_one .box_two a:hover{
+    background-color: #13627c;
+    }
+
+
+
+
+
+
+
+
+#section_two .box_three{
+    text-align: center;
+    padding-top: 90px;
+    height: 450px;
+}
+
+#section_two .box_three h2{
+    font-size: 30px;
+    padding: 20px 40px 20px 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#section_two .box_three p{
+    font-weight: 300;
+    padding: 0px;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin: 0 0 40px 0;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#section_two .box_three p a:hover{
+color: #13627c;
+}
+
+#section_two .box_four a{
+    text-decoration: none;
+    background-color: #212529;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+      }
+ #section_two .box_four a:hover{
+    background-color: #4f5256;
+ }
+
+
+ #section_three{
+    background-image: url(./photo/bg-callout.jpg);
+        height: 100vh;
+    text-align: center;
+    padding-top: 20%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+ }
+
+ #section_three .box_five h2{
+    font-size: 56px;
+    font-weight: 700;
+    display: block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+ #section_three .box_six a{
+    text-decoration: none;
+    background-color: #13627c;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+ }
+
+#section_three .box_seven h2{
+    margin: 0 0 60px 0;
+}
+ 
+#section_three .box_six a:hover{
+    background-color: #2c4a54 ;
+}
+
+
+
+
+#section_four{
+    background-color:#1D809F ;
+    height: 40vh;
+    text-align: center;
+    padding-top: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#section_four .box_eight h2{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    margin: 0 0 60px 0;
+    font-size: 30px;
+}
+
+#section_four .box_nine a{
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    background-color: white;
+    padding: 20px 25px;
+    margin: 20px 15px 40px 0;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#section_four .box_nine a:hover{
+    background-color: rgb(177, 177, 177);
+}
+
+
+#section_four .box_nine .btn2{
+    background-color: black;
+    color: white;
+
+    #section_four .box_nine .btn2:hover{
+        background-color: #545556;
+    }
+
+}
+#section_six{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100px;
+    background-position: center;
+    margin: 150px 0 50px 0;
+    color: #2b5e76;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
